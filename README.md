@@ -1,16 +1,16 @@
 # Bonjour, je suis Takwa 👋
 
 Étudiante en 3ᵉ année de licence **Business Information Systems** à l'ISGT (Tunisie).
-Je me forme à l'**intelligence artificielle**, à la **cybersécurité** et à la **data / BI**.
+Je construis mes compétences en intelligence artificielle, data / BI et développement Java/JEE
 
 ## 🎯 Ce que je recherche
-- Un stage / PFE en [IA, Data ou BI]
+- Un stage / PFE en IA, Data ou BI
 
 ## 🛠️ Compétences
-- **Data & BI** : [ex. SQL, Power BI, Excel]
-- **Programmation** : [ex. Python, Java/JEE]
-- **IA** : [ex. bases du Machine Learning, IA générative]
-- **Outils** : Git, GitHub, [NetBeans, VS Code...]
+- **Data & BI** : SQL, Power BI, Excel
+- **Programmation** : Python, Java/JEE
+- **IA** : bases du Machine Learning, IA générative
+- **Outils** : Git, GitHub, NetBeans, VS Code
 
 ## 🎓 Formation et certificats
 - Licence BIS, ISGT Tunisie (en cours)
